@@ -1,6 +1,4 @@
-# hydraulics_test_rig_machine_failure_prediction
-
-Condition monitoring of hydraulic systems
+# Condition monitoring of hydraulic systems
 =========================================
 
 Abtract: The data set addresses the condition assessment of a hydraulic test rig based on multi sensor data. Four fault types are superimposed with several severity grades impeding selective quantification.
